@@ -7,7 +7,7 @@ $token = "8248830236:AAFpVQ9WWNA0D6BoI8mx3PP2m4TcwvxklYU";
 $api_url = "https://api.telegram.org/bot$token/";
 
 // Lista de administradores do bot (baseado em usernames do Telegram)
-$administradores = ["Sethking7", "astrahvhdev", "metodos05km", "ZeroXusee1995"];  // Adicione os usernames dos administradores aqui
+$administradores = ["antalogicmeme", "", "", ""];  // Adicione os usernames dos administradores aqui
 
 // Função para enviar requisições ao Telegram
 function bot($method, $parameters = []) {
