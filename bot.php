@@ -1,6 +1,6 @@
 <?php
 
-$token = "SEU_TOKEN_AQUI";
+$token = "8248830236:AAFpVQ9WWNA0D6BoI8mx3PP2m4TcwvxklYU";
 $api_url = "https://api.telegram.org/bot$token/";
 
 $administradores = ["antalogicmeme"];
