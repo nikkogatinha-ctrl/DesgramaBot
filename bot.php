@@ -1,7 +1,7 @@
 <?php
 
 // Token do bot
-$token = "7703358543:AAGet9p5NFlCd20dsecH4HbiMhsoZ1oYvRs";
+$token = "8248830236:AAFpVQ9WWNA0D6BoI8mx3PP2m4TcwvxklYU";
 
 // URL base da API do Telegram
 $api_url = "https://api.telegram.org/bot$token/";
